@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {Hero} from './header.js';
 import { BrowserRouter as Router, Route, Link} from 'react-router-dom';
-import {RegisterForm} from './container.js';
+import {RegisterForm} from './register.js';
 import '../App.css';
 
 
@@ -11,7 +11,6 @@ export class Home extends Component {
         return (
             <div className="App">
                 <Hero/>
-                <RegisterForm/>
             </div>
         );
     }

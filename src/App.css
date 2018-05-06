@@ -24,10 +24,10 @@
 
 
 .topBg {
-  background: url('https://images.pexels.com/photos/977736/pexels-photo-977736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') !important;
-  background-size: cover!important;
-  background-position: center center!important;
-  min-height: 700px;
+  /*background: url('https://images.pexels.com/photos/977736/pexels-photo-977736.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260') !important;*/
+  /*background-size: cover!important;*/
+  /*background-position: center center!important;*/
+  background-color: gray !important;
 }
 
 @keyframes App-logo-spin {
